@@ -1,0 +1,4 @@
+C:\temp\IIS Test\IIS Test\bin\IIS Test.dll
+C:\temp\IIS Test\IIS Test\bin\IIS Test.pdb
+C:\temp\IIS Test\IIS Test\obj\Release\IIS Test.dll
+C:\temp\IIS Test\IIS Test\obj\Release\IIS Test.pdb

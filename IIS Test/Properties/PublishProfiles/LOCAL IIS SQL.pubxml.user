@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMOUUlgP1REihK46JzxsrugAAAAACAAAAAAAQZgAAAAEAACAAAAAFWtmewSh08wJ03NG1FbAj4GDBC0E9evYMHf19+3qaBwAAAAAOgAAAAAIAACAAAACtR/61PMeiN6u4ezYd9igdP4B1RG1rNE2maqiLhLxHlyAAAADI+nylksjs5mCkp4wpYyk3ychSZnQ8htE+OrSRO8QyiEAAAABeJOSV1k5hoeEVqwdvKhaI7Xd+bVswsDKNdikm9yng6GpQVES0sNgjZx715vViX6A0HcbwQ1uiwpezx688DV6g</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.17.136.69</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/IIS Test.dll">
+      <publishTime>07/21/2015 17:09:21</publishTime>
+    </File>
+    <File Include="css/nav.css">
+      <publishTime>07/21/2015 17:07:18</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>07/21/2015 16:09:28</publishTime>
+    </File>
+    <File Include="images/user.png">
+      <publishTime>07/21/2015 16:20:16</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>07/21/2015 16:59:22</publishTime>
+    </File>
+    <File Include="notes/readme.txt">
+      <publishTime>07/21/2015 16:46:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/21/2015 17:09:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

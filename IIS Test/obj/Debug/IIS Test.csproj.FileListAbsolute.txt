@@ -1,0 +1,5 @@
+C:\temp\IIS Test\IIS Test\bin\IIS Test.dll
+C:\temp\IIS Test\IIS Test\bin\IIS Test.pdb
+C:\temp\IIS Test\IIS Test\obj\Debug\IIS Test.csprojResolveAssemblyReference.cache
+C:\temp\IIS Test\IIS Test\obj\Debug\IIS Test.dll
+C:\temp\IIS Test\IIS Test\obj\Debug\IIS Test.pdb
