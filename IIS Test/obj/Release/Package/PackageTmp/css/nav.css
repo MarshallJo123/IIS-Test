@@ -3,15 +3,14 @@
     margin-right:0px;
     margin-top:0px;
     margin-bottom:0px;
-    background-color:#ccc;
 }
 /* NAV BLUE AREA */
 .navblue {
     background-color:#3399FF;
     left:0px;
     right:0px;
-    height:35px;
-    line-height:35px;
+    height:45px;
+    line-height:45px;
 }
 .navblue_container {
     margin-left:auto;
@@ -30,13 +29,12 @@ navblue_container_right {
     height:35px;
 }
 .navblue_container_right_usericon {
-    width:3%;
+    width:10%;
     float:left;
 }
 .navblue_container_right_usertext {
     width:5%;
     float:right;
-    line-height:35px;
 }
 /* NAV WHITE AREA */
 .navwhite {
@@ -44,32 +42,37 @@ navblue_container_right {
     left:0px;
     right:0px;
     height:70px;
+    border-bottom:solid;
+    border-bottom-color:#ccc;
+    border-width:1px;
 }
 .navwhite_container {
     margin-left:auto;
     margin-right:auto;
     width:1250px;
 }
-.navwhite_container_right_usericon {
-    width:3%;
+.navwhite_container_left {
+    width:70%;
     float:left;
 }
-.navwhite_container_right_usertext {
-    width:5%;
+.navwhite_container_right {
+    width:30%;
     float:right;
     line-height:35px;
 }
+/* NAV WHITE AREA LINKS */
 ul {
     line-height:70px;
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-
 li {
     display: inline;
     margin-left:8px;
     color:black;
+    font-weight:700;
+    font-size:16px;
 }
 a:link, a:visited {
     color:black;
